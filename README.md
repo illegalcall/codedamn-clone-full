@@ -1,5 +1,5 @@
 
-# CODEIT
+# CODEDAMN CLONE-
 ## General info
 Codedamn Clone is a playground for html/css/js. 
     
