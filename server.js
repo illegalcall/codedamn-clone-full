@@ -6,10 +6,7 @@ const app = express();
 const cors = require("cors");
 app.use(cors());
 const port = process.env.PORT || 3001;
-// parse application/x-www-form-urlencoded
-// app.use(bodyParser.urlencoded({ extended: false }))
 app.use(bodyParser.json());
-//`mongodb+srv://${process.env.MONGODB_USERNAME}:${process.env.MONGODB_PASSWORD}@gettingstarted.5l8yh.mongodb.net/weconnect?retryWrites=true&w=majority`
 mongoose.connect(process.env.MONGODB_URI, {
   useNewUrlParser: true,
   useUnifiedTopology: true,
