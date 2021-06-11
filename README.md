@@ -1,7 +1,7 @@
 
 # CODEDAMN CLONE
 ## General info
-Codedamn Clone is a playground for html/css/js. 
+Codedamn Clone is a playground for HTML/CSS/JS. 
     
 ## Technologies
 Project is created with:
