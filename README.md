@@ -2,7 +2,7 @@
 
 Clone this repository
 
-Open terminal and cd to codedamn-clone-full-main
+Open terminal and cd to codedamn-clone-full
 
 Step 1: `npm i`
 
